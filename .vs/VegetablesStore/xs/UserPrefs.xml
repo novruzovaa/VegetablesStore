@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{75AE1C83-C636-4796-8BE0-1AD94EB31AC5}|Default">
+  <MonoDevelop.Ide.ItemProperties.VegetablesStore FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VegetablesStore/Vegetables/Vegetable.cs">
+    <Files>
+      <File FileName="VegetablesStore/Vegetables/Vegetable.cs" Line="26" Column="1" />
+      <File FileName="VegetablesStore/Vegetables/Tomato.cs" Line="13" Column="1" />
+      <File FileName="VegetablesStore/Vegetables/Eggplant.cs" Line="8" Column="1" />
+      <File FileName="VegetablesStore/Vegetables/Potato.cs" Line="8" Column="1" />
+      <File FileName="VegetablesStore/Vegetables/Cucumber.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VegetablesStore" expanded="True">
+            <Node name="VegetablesStore" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

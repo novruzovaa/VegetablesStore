@@ -1,0 +1,15 @@
+/Users/ciceknovruzova/Projects/VegetablesStore/VegetablesStore/bin/Debug/net6.0/VegetablesStore
+/Users/ciceknovruzova/Projects/VegetablesStore/VegetablesStore/bin/Debug/net6.0/VegetablesStore.deps.json
+/Users/ciceknovruzova/Projects/VegetablesStore/VegetablesStore/bin/Debug/net6.0/VegetablesStore.runtimeconfig.json
+/Users/ciceknovruzova/Projects/VegetablesStore/VegetablesStore/bin/Debug/net6.0/VegetablesStore.dll
+/Users/ciceknovruzova/Projects/VegetablesStore/VegetablesStore/bin/Debug/net6.0/VegetablesStore.pdb
+/Users/ciceknovruzova/Projects/VegetablesStore/VegetablesStore/obj/Debug/net6.0/VegetablesStore.csproj.AssemblyReference.cache
+/Users/ciceknovruzova/Projects/VegetablesStore/VegetablesStore/obj/Debug/net6.0/VegetablesStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ciceknovruzova/Projects/VegetablesStore/VegetablesStore/obj/Debug/net6.0/VegetablesStore.AssemblyInfoInputs.cache
+/Users/ciceknovruzova/Projects/VegetablesStore/VegetablesStore/obj/Debug/net6.0/VegetablesStore.AssemblyInfo.cs
+/Users/ciceknovruzova/Projects/VegetablesStore/VegetablesStore/obj/Debug/net6.0/VegetablesStore.csproj.CoreCompileInputs.cache
+/Users/ciceknovruzova/Projects/VegetablesStore/VegetablesStore/obj/Debug/net6.0/VegetablesStore.dll
+/Users/ciceknovruzova/Projects/VegetablesStore/VegetablesStore/obj/Debug/net6.0/refint/VegetablesStore.dll
+/Users/ciceknovruzova/Projects/VegetablesStore/VegetablesStore/obj/Debug/net6.0/VegetablesStore.pdb
+/Users/ciceknovruzova/Projects/VegetablesStore/VegetablesStore/obj/Debug/net6.0/VegetablesStore.genruntimeconfig.cache
+/Users/ciceknovruzova/Projects/VegetablesStore/VegetablesStore/obj/Debug/net6.0/ref/VegetablesStore.dll
