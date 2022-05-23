@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8NZnvRqsXCYuQ0joRRshPW1KkQ8+6HX9mcBI/vaQdDSEbvzCnNNHuJMLdGm4nZ967oHMhoqqW3K5d37p3xUObA==",
+  "dgSpecHash": "zHXxjCq1/YtoNS5KuD9SzmQBNRdc5AvQHiLfjakjVUTIExKHv/IbyWZdGBezRkxQgwwjLAwKggGgZQgyzlqHNg==",
   "success": true,
-  "projectFilePath": "/Users/ciceknovruzova/Projects/VegetablesStore/VegetablesStore/VegetablesStore.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Novruzova\\Desktop\\VegetablesStore\\VegetablesStore\\VegetablesStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Novruzov's\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Tomato",
+    "Price": 0.5,
+    "KG": 200.0
+  },
+  {
+    "Name": "Eggplant",
+    "Price": 0.8,
+    "KG": 200.0
+  },
+  {
+    "Name": "Cucumber",
+    "Price": 0.4,
+    "KG": 200.0
+  },
+  {
+    "Name": "Potato",
+    "Price": 0.6,
+    "KG": 200.0
+  }
+]

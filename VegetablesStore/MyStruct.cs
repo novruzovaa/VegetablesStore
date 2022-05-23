@@ -13,9 +13,10 @@ namespace VegetablesStore
         public int eDailyKg;
         public int pDailyKg;
         public int tDailyKg;
+        public int rating;
         
        
-        public MyStruct(int day, int week, double weeklyPrice, double dailyPrice,double monthlyPrice, int customerCount, int cDailyKg, int eDailyKg, int pDailyKg, int tDailyKg)
+        public MyStruct(int day, int week, double weeklyPrice, double dailyPrice,double monthlyPrice, int customerCount, int cDailyKg, int eDailyKg, int pDailyKg, int tDailyKg,int rating)
         {
             this.day = day;
             this.week = week;
@@ -27,6 +28,7 @@ namespace VegetablesStore
             this.eDailyKg = eDailyKg;
             this.pDailyKg = pDailyKg;
             this.tDailyKg = tDailyKg;
+            this.rating = rating;
         }
 
         public void ShowDaily()
@@ -36,7 +38,8 @@ namespace VegetablesStore
                 $"{eDailyKg} kg Badimcan satilib\n" +
                 $"{pDailyKg} kg Kartoska satilib\n" +
                 $"{tDailyKg} kg Pomidor satilib\n" +
-                $"Gunluk qazanc - {dailyPrice} AZN\n");
+                $"Gunluk qazanc - {dailyPrice} AZN\n" +
+                $"Rating - {rating}");
         }
 
 

@@ -26,6 +26,20 @@ namespace VegetablesStore
 			return number;
 		}
 
+		public string ToxicVegetable()
+        {
+			string[] vegetableList = { "Cucumber", "Eggplant", "Tomato", "Potato" };
+			Random random = new();
+			return   vegetableList[random.Next(0, vegetableList.Length)];
+		}
+
+		public string RottenVegetable()
+		{
+			string[] vegetableList = { "Cucumber", "Eggplant", "Tomato", "Potato" };
+			Random random = new();
+			return vegetableList[random.Next(0, vegetableList.Length)];
+		}
+
 	}
 }
 
